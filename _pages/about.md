@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "George Alex Koulieris"
-excerpt: "About me"
+title: ""
+excerpt: "Research"
 author_profile: true
 redirect_from: 
   - /about/
